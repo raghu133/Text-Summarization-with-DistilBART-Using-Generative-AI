@@ -1,0 +1,10 @@
+transformers
+torch
+gradio
+diffusers
+ctransformers
+pillow
+streamlit
+accelerate
+pypdf
+peft
